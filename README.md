@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/iisraa11/FEM-Grid-Layout)
-- Live Site URL: [Add live site URL here](https://iisraa11.github.io/FEM-Grid-Layout/)
+- Solution URL: [Add solution URL here](https://github.com/iisraa11/testimonials-grid-section-main)
+- Live Site URL: [Add live site URL here](https://iisraa11.github.io/testimonials-grid-section-main/)
 
 ## My process
 
